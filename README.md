@@ -65,7 +65,7 @@ Top 3 Similar Documents:
 3. hiring_plan.txt          (similarity ≈ 0.22)
 ```
 **Explanation:**  
-`data_pipeline.txt` mentions Apache Airflow and AWS S3 — exactly the tools for data processing.
+`data_pipeline.txt` mentions Apache Airflow and AWS S3 - exactly the tools for data processing.
 
 ---
 
