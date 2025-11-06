@@ -1,0 +1,5 @@
+Our data pipeline collects raw logs from multiple sources, cleans them, and stores them in a central data warehouse. 
+The pipeline includes extraction, transformation, and loading (ETL) processes. 
+We use Apache Airflow for orchestration and AWS S3 as the main data lake.
+
+
