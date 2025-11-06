@@ -1,11 +1,11 @@
-# 💬 Example Queries and Expected Outputs
+# Example Queries and Expected Outputs
 
 Below are some example queries and the expected top matching documents.  
 These help verify that your **Mini Vector Search Engine** is working correctly.
 
 ---
 
-### 🔍 Query 1
+### Query 1
 **Input:**
 > How do we process raw data before analysis?
 
@@ -21,7 +21,7 @@ Top 3 Similar Documents:
 
 ---
 
-### 🔍 Query 2
+### Query 2
 **Input:**
 > What are the company’s hiring goals?
 
@@ -37,7 +37,7 @@ Top 3 Similar Documents:
 
 ---
 
-### 🔍 Query 3
+### Query 3
 **Input:**
 > How are we improving customer engagement?
 
@@ -53,7 +53,7 @@ Marketing focuses on awareness and campaigns; support mentions chatbots and sati
 
 ---
 
-### 🔍 Query 4
+### Query 4
 **Input:**
 > Which tools manage our data processing?
 
@@ -69,7 +69,7 @@ Top 3 Similar Documents:
 
 ---
 
-### 🔍 Query 5
+### Query 5
 **Input:**
 > What’s planned in the next product release?
 
