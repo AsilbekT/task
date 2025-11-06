@@ -17,7 +17,7 @@ Top 3 Similar Documents:
 3. customer_support.txt     (similarity ≈ 0.18)
 ```
 **Explanation:**  
-`data_pipeline.txt` discusses ETL, cleaning, and data warehousing — perfect match.
+`data_pipeline.txt` discusses ETL, cleaning, and data warehousing - perfect match.
 
 ---
 
@@ -49,7 +49,7 @@ Top 3 Similar Documents:
 3. product_roadmap.txt      (similarity ≈ 0.37)
 ```
 **Explanation:**  
-Marketing focuses on awareness and campaigns; support mentions chatbots and satisfaction — both relevant to engagement.
+Marketing focuses on awareness and campaigns; support mentions chatbots and satisfaction - both relevant to engagement.
 
 ---
 
